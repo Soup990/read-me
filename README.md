@@ -58,6 +58,7 @@ Enter your creative island and you should have the unrelease props and devices y
 
 What IDs can I use?
 Make sure these IDs are under Prefab:PlaysetProp or Galleries:PlaysetProp
+
 Lego Brick - PPID_ProjectPlayGame_PP_Brick_32_01
 
 Lego Bed - PPID_JunoGame_PP_Bed
@@ -94,6 +95,7 @@ Banner POI - BGA_MMObj_POIBanner
 Capture Point - BGA_MMObj_POICapturePoint_C
 
 Make sure these IDs are under Prefabs:PlaysetProp
+ 
 Cube Town Floors - PPID_CRP_Corruption_CP_BGA_Cube_CubeTown_Floor_s2
 
 Minigun Vending Machine - B_Athena_VendingMachine
@@ -124,6 +126,7 @@ Vehicle Device - PID_CP_Device_VehicleProxy
 Wildlife Device - PID_CP_Device_WildlifeProxy
 
 Make sure these IDs are under Prefab:Playset
+
 Shark Island - PID_Playset_105x105_Shark_Island
 
 Volcano Island - PID_Playset_60x60_Composed_Volcano
@@ -145,6 +148,7 @@ Spiky Stadium - PID_016_Athena_SpikyStadium
 Slappy Shores - PID_CP_SlappyShores_POI
 
 Make sure these IDs are under Weapons:Weapon (THESE CANNOT BE DROPPED!)
+
 Lego Tier 5 Axe - WID_Juno_Axe_T5
 
 Lego Enemy Bone - WID_JUNO_Enemy_Bone
